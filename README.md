@@ -1,2 +1,1 @@
-Zee-Zee-Copy-Site
-=================
+The website for Zee Zee Copy.
