@@ -55,7 +55,8 @@ ul{list-style-type:none;}
 /* BODY PANEL */
 #bodyPan{
 	position: relative;
-	top: 116px;
+	left: 0px;
+	top: 100px;
 	width:800px; 
 	margin:0 auto; 
 	padding:0;
